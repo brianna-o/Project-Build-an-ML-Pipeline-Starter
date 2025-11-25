@@ -1,4 +1,5 @@
-#W&B project link: "https://wandb.ai/bowens12-western-governors-university/nyc_airbnb?nw=nwuserbowens12"
+# W&B project link: "https://wandb.ai/bowens12-western-governors-university/nyc_airbnb?nw=nwuserbowens12"
+# Git Repo Link: "https://github.com/brianna-o/Project-Build-an-ML-Pipeline-Starter"
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
